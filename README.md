@@ -37,7 +37,7 @@ My work sits at the intersection of **business intelligence, data modeling, and 
 
 As a freelance/part-time Power BI Developer, I have delivered dashboards for real-world client projects, including healthcare workforce and encounter analytics and CRM-based client relationship and engagement intelligence. I have also worked as an AI Engineer and IDP Analyst, building OCR extraction pipelines and Python automation for unstructured documents.
 
-I am currently completing a **BS Computer Science at the University of Veterinary and Animal Sciences, Lahore**, and I am open to entry-level, junior, internship, freelance, and collaborative opportunities in analytics, business intelligence, and applied AI.
+I am currently completing a **BS Computer Science at the University of Veterinary and Animal Sciences, Lahore**, and I am open to entry-level, junior,  freelance, and collaborative opportunities in analytics, business intelligence, and applied AI.
 
 ## Connect
 
