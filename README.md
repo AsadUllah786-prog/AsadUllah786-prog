@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://asadfolio-4h3cuwop.manus.space/"><img src="assets/profile/portfolio.svg" alt="View portfolio" width="230"></a>
+  <a href="https://asad-ullah-data-portfolio.wigglylily128.chatgpt.site/"><img src="assets/profile/portfolio.svg" alt="View portfolio" width="230"></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/asadanalyst/"><img src="assets/profile/linkedin.svg" alt="Connect on LinkedIn" width="230"></a>
 </p>
@@ -69,4 +69,4 @@ This is evidence of learning and reproducible engineering practice. Passing soft
 
 Tell me your **business question, data sources, required KPIs, and timeline**. We can discuss the dashboard or workflow that fits your needs.
 
-**[Let's talk on LinkedIn ↗](https://www.linkedin.com/in/asadanalyst/)** &nbsp; · &nbsp; **[Browse my portfolio ↗](https://asadfolio-4h3cuwop.manus.space/)**
+**[Let's talk on LinkedIn ↗](https://www.linkedin.com/in/asadanalyst/)** &nbsp; · &nbsp; **[Browse my portfolio ↗](https://asad-ullah-data-portfolio.wigglylily128.chatgpt.site/)**
