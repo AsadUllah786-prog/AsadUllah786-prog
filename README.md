@@ -1,63 +1,72 @@
-# Asad Ullah
+<p align="center">
+  <img src="assets/profile/hero.gif" alt="Asad Ullah — Data Analyst and Power BI Developer. Clear dashboards, reliable metrics, better business decisions. Animated decorative analytics illustration." width="100%">
+</p>
 
-### Data Analyst & Power BI Developer | SQL, DAX & Python
+<p align="center">
+  <a href="https://asadfolio-4h3cuwop.manus.space/"><img src="assets/profile/portfolio.svg" alt="View portfolio" width="230"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/asadanalyst/"><img src="assets/profile/linkedin.svg" alt="Connect on LinkedIn" width="230"></a>
+</p>
 
-I turn business questions and messy data into clear dashboards, validated metrics, and reusable reporting workflows. My portfolio covers healthcare operations, workforce reporting, customer engagement, and sales analysis.
+<p align="center"><strong>Open to Data Analyst · Power BI Developer · BI Analyst opportunities</strong><br>Available for freelance dashboard and reporting projects.</p>
 
-**Open to Data Analyst, Power BI Developer, and BI Analyst opportunities, plus freelance dashboard and reporting projects.**
+---
 
-[View my portfolio](https://asadfolio-4h3cuwop.manus.space/) · [Connect on LinkedIn](https://www.linkedin.com/in/asadanalyst/)
+### Business questions → trusted reporting
 
-## What I can help you build
+I'm **Asad**, a Computer Science student building dashboards and Python workflows across healthcare, workforce reporting, customer engagement, and sales analytics.
 
-- **Power BI dashboards:** KPI definitions, trend comparisons, filters, and useful detail views.
-- **Reliable reporting data:** cleaning and transformation with Power Query, SQL, Excel, and Pandas.
-- **Maintainable models:** relationships, fiscal calendars, DAX measures, and documented assumptions.
-- **Python workflows:** data preparation, validation, and reporting automation.
-- **Applied AI prototypes:** document-processing and retrieval workflows with clear evaluation boundaries.
+I start with **what one row represents**, check data quality, define the KPIs, and validate the model before presenting the results.
 
-My workflow starts with the business question and data grain, then moves through quality checks, modeling, validation, and a documented handover.
+| 📊 Business intelligence | 🛠️ Data & automation | 🔎 Applied AI practice |
+| :--- | :--- | :--- |
+| Power BI dashboards, DAX measures, fiscal calendars, and performance comparisons | SQL analysis, Power Query transformations, Pandas validation, and reusable reporting workflows | Document processing, retrieval experiments, and ML workflows with documented limitations |
 
-## Start with these projects
+### Selected work
 
-| Project | Business problem | Evidence to review |
-|---|---|---|
-| [Healthcare Provider FTE & Encounter Analytics](https://github.com/AsadUllah786-prog/HealthCare-Dashboard) | Compare workforce and operational performance across departments and fiscal periods. | Dashboard preview, Power BI template, provider-identity bridge, fiscal calendar, and variance-reporting documentation. |
-| [Client Engagement Intelligence](https://github.com/AsadUllah786-prog/client-engagement-intelligence) | Understand outreach activity and engagement over different reporting windows. | Dashboard preview covering mailings, invitations, response measures, and subscription reporting. |
-| [Workforce Hours Reporting](https://github.com/AsadUllah786-prog/workforce-hours-reporting) | Explore hours by department, provider, pay category, and period. | Summary/detail reporting design, KPI cards, filters, and trend views. |
-| [SQL Portfolio: Pizza Sales Analysis](https://github.com/AsadUllah786-prog/SQL-PortfolioProject) | Investigate sales trends, product performance, ordering patterns, and data quality. | T-SQL queries demonstrating joins, CTEs, window functions, aggregations, and validation. |
-| [AI-Ops System Health Platform](https://github.com/AsadUllah786-prog/aiops-system-health-platform) | Explore system monitoring, anomaly detection, and health scoring. | Application architecture and source across React, Node.js, and FastAPI; review the repository for setup and scope. |
+| Project | What you can explore |
+| :--- | :--- |
+| **[Healthcare FTE & Encounter Analytics](https://github.com/AsadUllah786-prog/HealthCare-Dashboard)** | Workforce and encounter reporting, provider identity mapping, fiscal calendars, and budget variance. Includes a dashboard preview and Power BI template. |
+| **[Client Engagement Intelligence](https://github.com/AsadUllah786-prog/client-engagement-intelligence)** | Dashboard preview covering outreach, mailings, invitations, response measures, and subscriptions. |
+| **[Workforce Hours Reporting](https://github.com/AsadUllah786-prog/workforce-hours-reporting)** | Summary/detail dashboard preview for hours, departments, providers, pay categories, and period comparisons. |
+| **[SQL Portfolio · Pizza Sales](https://github.com/AsadUllah786-prog/SQL-PortfolioProject)** | T-SQL queries using joins, CTEs, window functions, aggregations, and data-quality checks. |
+| **[AI-Ops System Health Platform](https://github.com/AsadUllah786-prog/aiops-system-health-platform)** | Monitoring, anomaly detection, and health-scoring application architecture across React, Node.js, and FastAPI. |
 
-Dashboard repositories clearly identify the artifacts available for review. Private client datasets and restricted PBIX files are not published.
+<sub>Each repository identifies its available artifacts. Private client data and restricted PBIX files are not published.</sub>
 
-## ML & GenAI engineering practice
+### My toolkit
 
-[CSCI26504: 16-week ML + GenAI repository](https://github.com/AsadUllah786-prog/CSCI26504_ML_GenAI_16_Weeks)
+<img src="assets/profile/toolkit.svg" alt="Power BI, DAX, Power Query, SQL, Python, Pandas, FastAPI" width="100%">
 
-A structured, AI-assisted learning resource with 80 daily notebooks, a 28-section EDA playbook, three project workflows, reusable Python modules, and a local FastAPI/document-retrieval example.
+Also working with **Excel · NumPy · Matplotlib · data modeling · OCR/document processing**.
 
-- All 84 notebooks were executed successfully; 18 tests passed in the documented local environment.
-- Dataset cards explain the Kaggle sources' generated or derived origins.
-- Validation notes distinguish tested local workflows from optional integrations and deployment examples.
-- Evaluation reports retain failure cases and model limitations.
+### Building in public · ML & GenAI
 
-This repository documents learning and reproducible engineering practice. Its tests are evidence of the specified software contracts, not proof of commercial model performance.
+**[Explore the 16-week ML + GenAI repository →](https://github.com/AsadUllah786-prog/CSCI26504_ML_GenAI_16_Weeks)**
 
-## Toolkit
+A structured, AI-assisted learning resource connecting data exploration, machine learning, retrieval, and API development.
 
-**Business intelligence:** Power BI, DAX, Power Query, Excel, KPI reporting, data modeling.  
-**Data analysis:** SQL, Pandas, NumPy, Matplotlib, data cleaning and validation.  
-**Automation and applied AI:** Python, FastAPI, OCR/document processing, ML and retrieval experiments.
+| 84 notebooks executed | 18 tests passed | 3 project workflows |
+| :---: | :---: | :---: |
+| 80 daily lessons + EDA + projects | Documented local environment | Churn · segmentation · document retrieval |
 
-I am completing a BS Computer Science at the University of Veterinary and Animal Sciences, Lahore, and continuing to develop my analytics and applied AI skills through documented work.
+<details>
+<summary>What the validation covers</summary>
 
-## Let's discuss your project
+The repository includes a 28-section EDA playbook, reusable Python modules, and a local FastAPI/document-retrieval example. Dataset cards describe the Kaggle sources' generated or derived origins. Validation notes separate tested local workflows from optional integrations and deployment examples, and evaluation reports retain failure cases.
 
-For a dashboard or reporting inquiry, send me:
+This is evidence of learning and reproducible engineering practice. Passing software tests does not establish commercial model performance.
 
-1. The business question and intended users.
-2. Your data sources and current reporting process.
-3. The KPIs or decisions the report should support.
-4. Your expected deliverables and timeline.
+</details>
 
-[Message me on LinkedIn](https://www.linkedin.com/in/asadanalyst/) · [Browse the portfolio](https://asadfolio-4h3cuwop.manus.space/)
+### A little about me
+
+🎓 Completing a **BS Computer Science** at the University of Veterinary and Animal Sciences, Lahore.  
+🌱 Developing my analytics, Python automation, and applied AI skills through documented projects.  
+💡 Interested in the work between a messy spreadsheet and a decision someone can trust.
+
+### Have a reporting problem to solve?
+
+Tell me your **business question, data sources, required KPIs, and timeline**. We can discuss the dashboard or workflow that fits your needs.
+
+**[Let's talk on LinkedIn ↗](https://www.linkedin.com/in/asadanalyst/)** &nbsp; · &nbsp; **[Browse my portfolio ↗](https://asadfolio-4h3cuwop.manus.space/)**
